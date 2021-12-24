@@ -1,0 +1,5 @@
+apt install tensorflow
+apt install tensorflow-gpu
+apt install keras
+apt install pandas
+apt install numpy
